@@ -1,0 +1,6 @@
+C:\Users\local\Desktop\PawelGnyszka\122680\122680\bin\Debug\122680.exe.config
+C:\Users\local\Desktop\PawelGnyszka\122680\122680\obj\Debug\122680.csprojResolveAssemblyReference.cache
+C:\Users\local\Desktop\PawelGnyszka\122680\122680\bin\Debug\122680.exe
+C:\Users\local\Desktop\PawelGnyszka\122680\122680\bin\Debug\122680.pdb
+C:\Users\local\Desktop\PawelGnyszka\122680\122680\obj\Debug\122680.exe
+C:\Users\local\Desktop\PawelGnyszka\122680\122680\obj\Debug\122680.pdb
